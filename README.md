@@ -1,1 +1,1 @@
-# permission_manage_server
+# permission-manage-server
